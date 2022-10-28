@@ -1,0 +1,34 @@
+div {
+  text-align: center;
+}
+button {
+  border-radius: 8px;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  margin: 10px 5px 20px 5px;
+  margin-right: 5px;
+  background-color:  white;
+}
+button:hover {
+  background-color:  white;
+}
+p {
+  color: white;
+  margin-top: 50px;
+}
+h3 {
+  color: white;
+  margin-top: 10px;
+  font-size: 24px;
+}
+
+.direction{
+  display: flex;
+  flex-direction:row;
+}
+
+.Contenedor {
+  background-color:#47654d;
+  border-radius: 8px;
+}
